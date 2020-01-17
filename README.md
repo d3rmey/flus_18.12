@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/install.sh
+wget https://raw.githubusercontent.com/marconimp/18.12/master/install.sh
 
 chmod +x install.sh
 
